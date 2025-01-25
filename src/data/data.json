@@ -1,0 +1,51 @@
+{
+  "heroImages": [
+    {
+      "id": 1,
+      "name": "frame1",
+      "url": "https://s3-alpha-sig.figma.com/img/a8c0/855d/8e1d159c9ab27b2799d39d264fdff34b?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lg~Ta2qewSX6-G8q7HwAz~-OlclupUC44usL2RylR6VV7zRk9~ueG4tzmqmrSOKWP-Ja04NHs3fvult2UoywJiOqVr9EScoIcW~3v0k1I0ouksewB3YE4pFgoV9ivR~AjHq7mOkQO29itFrwXowaiJHDA-VWQzLLw7I8NvIlrnp3BK2CaCShMCCyBOiA6JwGwRon2W0hUQn9ceNUHqZ0LIkin-iV1OOP12OdVDdi-px2px2cKNN1fb8eVn4L2magnvAlP9UhLAslHv6h~~4qXC3I5fV0eOCkhhgH9Zm9rUkOZI5P2t4L4JaLcKnHFWNdaYQxAN-oS7xfJ~DV6SjEBQ__"
+    },
+    {
+      "id": 2,
+      "name": "frame2",
+      "url": "https://s3-alpha-sig.figma.com/img/d0ac/b768/69565a19fb7c8545a8ad7c085bcc3d29?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LWSlUL50AHeiA638dXZJEnZLQcKldX~bFU1NNw8xCdzgb4LLKfiMq0EeGRLPj-lTOTKpXgT2cx2RPg6ebfxZvzTRnPWkdu5P-PzafBEF3PFLIw8-qW-mGOk3mlYQVPbO4zVWO8dKlMmlqQ1xuXajsLBXxcwD414164S8anEMZ2nLXqSY76fp81GRIx3eIAtLuQC9~DOz-8mP7yOw~sKjY9XRGvgJMNEPVPXgnd5glxB6U~NCg1ipUlTkjnAiIFSpk9GW4xSeyARr7y-5hN4Rs3BT9cSGTCT1etpAX4LHQ~BnioJCEjQ2W3v2TsuMebKnpYOiBTGVs2XMqSPrMbcgAg__"
+    },
+    {
+      "id": 3,
+      "name": "frame3",
+      "url": "https://s3-alpha-sig.figma.com/img/2a3d/e2d3/34d76f9a83abbe81925be5e234251a82?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=LM3kVfkKLc6viq8gGOm4-~v-mCMthV-nVDotwag0zpXXuLD7sIqaCEYkT9tsdTTJo9aRemqAFm3CLhw~epHgPVbCF~YmdWXiVX4zyqjXk0jcFYXpYrdENFftt3C~cvVVkfeHIn~riM4JJB0ZtVJeQa0ZbIiehIuivNHj8zvpbdn-fI5hA33VkImuEfV-BoXSGuUzx9s1OnWj25aeZu7sL4RoLMUMYR1nKE5Bww0FHmKUDtxCI6fGpmxSlIJKmi09yr~pqtGNse3sPN8VIvzcBl~7AUPf5px8RvQQFzmSA-5UWnlkZdf3sEPE9PsVKWOJQ6erY0fL8PaWIS9ZBIdkgA__"
+    },
+    {
+      "id": 4,
+      "name": "frame4",
+      "url": "https://s3-alpha-sig.figma.com/img/0201/8ef6/725f4a90ce3aa84e9e2c0ca9e13f0d25?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NGJ8~gLwUW7SiTBwHnIiKW4kjyw8O--A425TgrVGyU4ST0V~XilblhEo-Mk-pLeunjE2PY-okpwFKWnH3LhRP9MnPyrktAHYbtnGLTN9QExFH2kwyFanpzOfVvg~JjzJKUnRVj49gvriuoCpmyTo4E1zSE2eJTFo2ZHzyybzymEj3gjmbCeE55vTe6LgT0cyp7HMSiPweMxTdTSiC1ml2mNdvoV8AxW8tJ3vMsn4B0up7G88fxky-wz7fzfA9EeeArBGDlPRn0OizG2rEpy0VcyL2lo92rMm~5LPkfeKHGGWghIj9VuFitrLtg6d248S78mvQLNrSV96FIUBwRe9Ew__"
+    }
+  ],
+  "profile": {
+    "name": "Srijit Rakshit",
+    "profile_pic": "https://s3-alpha-sig.figma.com/img/9410/914c/5d0e2a07053dfe85171ddc8fa68b04e5?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=SVz6Ijj5ULT1EpzLI-~g-DspHaiWcSiLbEoPyjZwhGPsKQWoybURIC7f51H3EFq~mCulNZBjY-2Ozv9enA-gA9d56hVP9~sOagpY8RsPGi-QHhSUnjxHlF15kbUXY0XuIaXF4YQh4a~EC0UJ3dZp3YR6BE-PUCYMWn~Gpx3IrC78mwL8r3Trj1FdVJaxMkx9boe6kmZaXXOeRVIacqUb6LBN5xGQx2Al3z641wXSBsQM6iPmffjH~GBf2SecIBSS1jawXFFThh4LEfd6hrVVhrS6y~Rld~VhcngCcoOcPn1m71DU88N4EBIgXnkxzzujRVujqZazXff6pYZHXVQOzQ__",
+    "about_me": "My name is Srijit Rakshit, and I am a photographer. I’m still learning a lot about cameras and, perhaps more importantly, about life. Photography is not just a hobby or a career path for me; it’s a journey—a way of seeing the world differently, capturing fleeting moments, and preserving emotions that words often fail to convey. I first picked up a camera out of sheer curiosity. The ability to freeze time fascinated me. At first, I didn’t understand aperture, shutter speed, or ISO, and terms like 'depth of field' sounded alien. But every photograph I took, no matter how flawed, brought me immense joy."
+  },
+  "top_picks": [
+    {
+      "id": 1,
+      "name": "pic1",
+      "url": "https://s3-alpha-sig.figma.com/img/b30c/850f/dda93cd49dbefff321595d5e1be333c4?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=OfWv4ypErslIL9hjEe9AGaKMaPQ20Pf2k4gUQ0euk4oZrmaSKFfdKqVk5hXDYh51JkwHeqB2zLypTuWadxBGUke8PSLw8LoyfKndLGinjd7YMjAAMA5YH-eJ3JQ26kVpAg8g2BBCuyBD1Ln~GcWYjVrBAuik3TOXo6VFNx3mHpt4lVhAPU4824WiygZ07nmKRkfNKoqv1VtEpLrVWm5GfCxMTsZk5oWh8Y9JqGiLpQROXjRxt6u0cufpWKX0b9UkZx3ML6oJJvtQz4CyudeYkXkn9CMexghy1RJ1saSlo5TyYFqzMgg7M7ogJWPyPfQKJYWEGK5qd3i7LVfTMjBV6A__"
+    },
+    {
+      "id": 2,
+      "name": "pic2",
+      "url": "https://s3-alpha-sig.figma.com/img/cc41/06e8/5a22880a82b3264370941310486b7e42?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ZIIYPYs0VdWf9vv6o4Vps7Ac-7Tij00D7BrN7a718PLz~Is3EVfZNj5Twxj2rXfWI1yN7rAXI6FO2~wa~XtiscTZ7UrSv8Csp9BfQsnCHnHe58BmFUnv21lrz4Ei~tj0fsblVlWj0IYBXevy948y8PKUoWAMrw7UGW8MPi8Y51V9-fqBYv9G6a15pWaRaENGY2WlJSjDdv4Qe2RW3uVm8W3~BtvUH1oSQfKepE6SPUeApiXdE0f4vvdDJlVBtSKbWsZGdnfgv5oci4wMZZOSkM64MLT82VW5IMg8YvR8~5dHODIA2llmZDHZumHBzVlWwPubfborn1HHkBjl6R~Zhw__"
+    },
+    {
+      "id": 3,
+      "name": "pic3",
+      "url": "https://s3-alpha-sig.figma.com/img/0201/8ef6/725f4a90ce3aa84e9e2c0ca9e13f0d25?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NGJ8~gLwUW7SiTBwHnIiKW4kjyw8O--A425TgrVGyU4ST0V~XilblhEo-Mk-pLeunjE2PY-okpwFKWnH3LhRP9MnPyrktAHYbtnGLTN9QExFH2kwyFanpzOfVvg~JjzJKUnRVj49gvriuoCpmyTo4E1zSE2eJTFo2ZHzyybzymEj3gjmbCeE55vTe6LgT0cyp7HMSiPweMxTdTSiC1ml2mNdvoV8AxW8tJ3vMsn4B0up7G88fxky-wz7fzfA9EeeArBGDlPRn0OizG2rEpy0VcyL2lo92rMm~5LPkfeKHGGWghIj9VuFitrLtg6d248S78mvQLNrSV96FIUBwRe9Ew__"
+    },
+    {
+      "id": 4,
+      "name": "pic4",
+      "url": "https://s3-alpha-sig.figma.com/img/a8c0/855d/8e1d159c9ab27b2799d39d264fdff34b?Expires=1739145600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=lg~Ta2qewSX6-G8q7HwAz~-OlclupUC44usL2RylR6VV7zRk9~ueG4tzmqmrSOKWP-Ja04NHs3fvult2UoywJiOqVr9EScoIcW~3v0k1I0ouksewB3YE4pFgoV9ivR~AjHq7mOkQO29itFrwXowaiJHDA-VWQzLLw7I8NvIlrnp3BK2CaCShMCCyBOiA6JwGwRon2W0hUQn9ceNUHqZ0LIkin-iV1OOP12OdVDdi-px2px2cKNN1fb8eVn4L2magnvAlP9UhLAslHv6h~~4qXC3I5fV0eOCkhhgH9Zm9rUkOZI5P2t4L4JaLcKnHFWNdaYQxAN-oS7xfJ~DV6SjEBQ__"
+    }
+  ]
+}
